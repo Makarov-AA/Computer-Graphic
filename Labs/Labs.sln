@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab1", "Lab1\Lab1.vcxproj", "{0A045D6B-30B9-4D80-93DC-1B8808910F27}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Makarov_tomogram_visualizer", "Makarov_tomogram_visualizer\Makarov_tomogram_visualizer.vcxproj", "{49DE2C9B-B54F-456C-B4CB-59927A9774CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -15,6 +17,10 @@ Global
 		{0A045D6B-30B9-4D80-93DC-1B8808910F27}.Debug|x64.Build.0 = Debug|x64
 		{0A045D6B-30B9-4D80-93DC-1B8808910F27}.Release|x64.ActiveCfg = Release|x64
 		{0A045D6B-30B9-4D80-93DC-1B8808910F27}.Release|x64.Build.0 = Release|x64
+		{49DE2C9B-B54F-456C-B4CB-59927A9774CC}.Debug|x64.ActiveCfg = Debug|x64
+		{49DE2C9B-B54F-456C-B4CB-59927A9774CC}.Debug|x64.Build.0 = Debug|x64
+		{49DE2C9B-B54F-456C-B4CB-59927A9774CC}.Release|x64.ActiveCfg = Release|x64
+		{49DE2C9B-B54F-456C-B4CB-59927A9774CC}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
